@@ -1,7 +1,9 @@
 # Sprint Retrospective — Evaluación del Equipo
 
 **Proyecto:** Aplicación Web Educativa para Adultos Mayores (CLENA)
+
 **Fecha:** 29 de septiembre de 2026
+
 **Facilitadora:** Valery Romero Mendoza (Scrum Master).
 
 ## 1. Objetivo de la reunión
