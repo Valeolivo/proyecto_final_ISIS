@@ -44,16 +44,24 @@ Las actividades estarían organizadas de manera progresiva para facilitar el apr
 
 Como primera etapa del proyecto se propone utilizar Figma para crear un prototipo de la aplicación.
 
-El prototipo permitirá representar:
+El prototipo incluye la simulación completa de las siguientes pantallas clave:
 
-- Pantalla de inicio.
-- Menú principal.
-- Actividades de aprendizaje.
-- Preguntas y encuestas.
-- Resultados.
-- Reflexiones y explicaciones.
-- Navegación entre las diferentes secciones.
+- **Pantalla de inicio:** Punto de entrada accesible con un botón claro para comenzar.
+- **Menú principal:** Selección de temas mediante tarjetas ilustradas y tipografía de gran tamaño.
+- **Actividades de aprendizaje:** Guías paso a paso diseñadas de forma lineal para evitar fatiga cognitiva.
+- **Preguntas y encuestas:** Casos prácticos sobre seguridad en Internet con opciones de respuesta simples.
+- **Resultados:** Mensajes de retroalimentación inmediata centrados en el refuerzo positivo.
+- **Reflexiones y explicaciones:** Consejos sencillos sobre por qué una respuesta es correcta o segura.
+- **Navegación general:** Botones visibles de "Volver" e "Inicio" para evitar que el usuario se sienta desorientado.
 
+### Usabilidad y Accesibilidad
+
+El diseño está pensado para adultos mayores de la Sala de Internet del CLENA, aplicando:
+- **Alto contraste:** Colores claros y legibles.
+- **Botones amplios:** Facilidad para hacer clic sin cometer errores.
+- **Lenguaje cercano:** Libre de tecnicismos complejos de computación.
+
+Esta representación visual permite validar la propuesta con la comunidad y sirve como base técnica para la futura etapa de programación.
 El prototipo permitiría visualizar cómo funcionaría la solución antes de realizar su desarrollo.
 
 ## ¿Qué tecnología podría utilizarse?
@@ -63,6 +71,9 @@ La solución se plantea inicialmente como una aplicación web.
 Para el prototipado se utilizará Figma como herramienta de diseño y representación visual.
 
 En una etapa posterior, el prototipo podría convertirse en una aplicación web funcional con apoyo de estudiantes de semestres avanzados. Estos estudiantes podrían orientarnos para utilizar buenas prácticas de desarrollo y en la implementación de las funcionalidades.
+
+* **Enlace al prototipo interactivo:**
+ https://www.figma.com/proto/5lqNiQ1eL0EcAvtXmpyGfr/Sin-t%C3%ADtulo?node-id=4-2290&p=f&t=zGO9q5pkso0nP7ND-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Proyección del proyecto
 
