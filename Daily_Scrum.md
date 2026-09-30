@@ -109,11 +109,18 @@ Scrum Master – Laboratorio CLENA
 
 
 
+# Registro de Daily Scrum – Laboratorio CLENA
+
 **Proyecto:** Aplicación Web Educativa para Adultos Mayores (CLENA)
-**Fecha:** 29 de septiembre de 2026
-**Plataforma:** Microsoft Teams (por confirmar)
+
+**Fecha de la sesión:**  29 de septiembre de 2026  
+
+**Plataforma:** Microsoft Teams
+
 **Facilitadora:** Valery Romero Mendoza (Scrum Master)
-**Asistentes:** Valeria Olivo, Valery Romero Mendoza, Luciana Díaz Mariano y Matías Vásquez Terán.
+
+**Asistentes:** Valeria Olivo, Valery Romero Mendoza, Luciana Díaz Mariano y Matías Vásquez Terán
+
 
 ## 1. Objetivo de la reunión
 
@@ -208,11 +215,18 @@ Durante esta jornada se plantea realizar el seguimiento de los entregables del S
 
 
 
+# Registro de Daily Scrum – Laboratorio CLENA
+
 **Proyecto:** Aplicación Web Educativa para Adultos Mayores (CLENA)
-**Fecha:** 30 de septiembre de 2026
-**Plataforma:** Microsoft Teams (por confirmar)
+
+**Fecha de la sesión:**  28 de septiembre de 2026  
+
+**Plataforma:** Microsoft Teams
+
 **Facilitadora:** Valery Romero Mendoza (Scrum Master)
-**Asistentes:** Valeria Olivo, Valery Romero Mendoza, Luciana Díaz Mariano y Matías Vásquez Terán.
+
+**Asistentes:** Valeria Olivo, Valery Romero Mendoza, Luciana Díaz Mariano y Matías Vásquez Terán
+
 
 ## 1. Objetivo de la reunión
 
