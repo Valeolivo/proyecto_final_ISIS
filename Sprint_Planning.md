@@ -2,7 +2,7 @@
 
 **Proyecto:** Aplicación Web Educativa para Adultos Mayores (CLENA)
 
-**Fecha:** 28 de septiembre de 2026
+**Fecha:** 29 de septiembre de 2026
 
 **Plataforma:** Microsoft Teams
 
