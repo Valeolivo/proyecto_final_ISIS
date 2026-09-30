@@ -10,3 +10,13 @@ Durante la visita se identificaron las siguientes situaciones:
 El grupo de usuarios que despertó mayor interés para el proyecto fueron los adultos mayores que utilizan la Sala de Internet.
 
 Se consideró este grupo debido a que algunas actividades relacionadas con Internet pueden representar dificultades cuando se realizan de manera autónoma.
+## Necesidades identificadas
+
+A partir de las observaciones realizadas, se identificó la necesidad de fortalecer la autonomía de los usuarios en actividades relacionadas con:
+
+- Búsqueda de información.
+- Reconocimiento de información confiable.
+- Uso responsable de Internet.
+- Identificación de posibles riesgos de seguridad digital.
+
+Estas observaciones sirvieron como base para identificar tres posibles situaciones problemáticas y posteriormente seleccionar una problemática central para el proyecto.
