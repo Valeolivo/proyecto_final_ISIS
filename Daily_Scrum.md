@@ -219,7 +219,7 @@ Durante esta jornada se plantea realizar el seguimiento de los entregables del S
 
 **Proyecto:** Aplicación Web Educativa para Adultos Mayores (CLENA)
 
-**Fecha de la sesión:**  28 de septiembre de 2026  
+**Fecha de la sesión:**  30 de septiembre de 2026  
 
 **Plataforma:** Microsoft Teams
 
