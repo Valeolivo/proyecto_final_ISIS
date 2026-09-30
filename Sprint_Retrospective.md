@@ -41,11 +41,7 @@ Se priorizó el análisis de la autonomía digital del adulto mayor antes de ini
 
 ## 6. Conclusión
 
-La retrospectiva permitió reconocer que la claridad en la división de roles, el enfoque centrado en el usuario y el seguimiento mediante GitHub Projects y Microsoft Teams fueron aspectos positivos del trabajo del equipo.
-
-Asimismo, se identificaron oportunidades de mejora relacionadas con el tiempo dedicado a la clasificación y descripción de evidencias multimedia y con la consistencia de los nombres y mensajes de commit.
-
-Como resultado, se establecieron acciones de mejora orientadas a utilizar plantillas para las evidencias, mantener actualizado el tablero Kanban y utilizar ramas para nuevas funcionalidades en futuros laboratorios.
+La retrospectiva permitió reconocer que la claridad en la división de roles, el enfoque centrado en el usuario y el seguimiento mediante GitHub Projects y Microsoft Teams fueron aspectos positivos del trabajo del equipo, asimismo, se identificaron oportunidades de mejora relacionadas con el tiempo dedicado a la clasificación y descripción de evidencias multimedia y con la consistencia de los nombres y mensajes de commit.Como resultado, se establecieron acciones de mejora orientadas a utilizar plantillas para las evidencias, mantener actualizado el tablero Kanban y utilizar ramas para nuevas funcionalidades en futuros laboratorios.
 
 ## 7. Compromisos para futuros laboratorios
 
