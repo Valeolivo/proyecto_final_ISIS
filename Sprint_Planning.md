@@ -1,8 +1,11 @@
 # Sprint Planning — Laboratorio CLENA
 
 **Proyecto:** Aplicación Web Educativa para Adultos Mayores (CLENA)
+
 **Fecha:** 28 de septiembre de 2026
+
 **Plataforma:** Microsoft Teams
+
 **Asistentes:** Valeria Olivo, Valery Romero Mendoza, Luciana Díaz Mariano y Matías Vásquez Terán.
 
 ## 1. Objetivo del Sprint
