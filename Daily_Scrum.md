@@ -319,4 +319,5 @@ Se mantiene como posible dificultad la gestión de videos pesados, por lo que se
 Esta Daily Scrum se plantea como una reunión de seguimiento posterior a la revisión y retrospectiva del Sprint del proyecto CLENA. Se toman como referencia las oportunidades de mejora identificadas por el equipo, especialmente la optimización de la organización de evidencias, el fortalecimiento del seguimiento mediante GitHub Projects y la mejora de las prácticas de control de versiones. Los compromisos propuestos buscan facilitar el trabajo colaborativo y la organización de futuras actividades. Los avances individuales, impedimentos y acuerdos específicos de esta fecha deben confirmarse con los integrantes antes de registrar el documento como acta oficial.
 
 **Elaborado por:** Valery Romero Mendoza
+
 **Cargo:** Scrum Master — Laboratorio CLENA
