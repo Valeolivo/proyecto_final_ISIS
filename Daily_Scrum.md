@@ -101,7 +101,7 @@ Clasificar y subir las imágenes a evidencias/fotografias/ y los videos a eviden
 
 Durante la sesión se realizó el seguimiento de las actividades del equipo para el proyecto de la aplicación web educativa del CLENA. Cada integrante deberá continuar con las tareas asignadas, registrar sus avances y comunicar los impedimentos que puedan afectar el desarrollo del Sprint.
 
-**Nota:** Este documento es un modelo para completar con la información real de la reunión. Los avances, impedimentos, acuerdos y fecha deben verificarse con los integrantes antes de registrar el Daily como realizado.
+
 
 **Elaborado por:**
 Valery Romero Mendoza
