@@ -22,7 +22,7 @@ Realizar seguimiento a las actividades del Sprint, revisar los avances individua
 
 **Rol:** Product Owner y responsable de documentación
 
-**¿Qué hice desde el último Daily?**
+**¿Qué hice antes del primer daily?**
 
  Identifiqué las necesidades de los usuarios a partir de las observaciones de la visita a la Sala de Internet, analicé los tres problemas encontrados y participé en la selección de la problemática sobre la falta de colaboración para el uso básico de herramientas digitales.
 
@@ -38,7 +38,7 @@ Ninguno
 
 **Rol:** Scrum Master
 
-**¿Qué hice desde el último Daily?**
+**¿Qué hice antes del primer daily?**
 
 Organicé las tareas iniciales del equipo, coordiné la discusión para seleccionar el problema y creé el proyecto en GitHub Projects con el tablero Kanban.
 
@@ -54,7 +54,7 @@ Ninguno
 
 **Rol:** Development Team
 
-**¿Qué hice desde el último Daily?**
+**¿Qué hice antes del primer daily?**
 
 Analicé el problema seleccionado sobre el uso de herramientas digitales en adultos mayores e identifiqué a los usuarios directos, indirectos y responsables de la institución.
 
@@ -70,7 +70,7 @@ Ninguno
 
 **Rol:** Responsable de evidencias
 
-**¿Qué hice desde el último Daily?**
+**¿Qué hice antes del primer daily?**
 
 Recopilé todas las fotografías y videos tomados durante la visita de campo al CLENA y seleccioné los registros que se relacionan directamente con el problema de la Sala de Internet.
 
