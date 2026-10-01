@@ -194,7 +194,7 @@ Se mantiene como aspecto por revisar el manejo de algunos videos de gran tamaño
 
 ## 3. Impedimentos identificados
 
-* **Gestión de evidencias multimedia:** se debe verificar que los videos de gran tamaño puedan organizarse y consultarse adecuadamente dentro del repositorio, sin afectar la disponibilidad de las evidencias del proyecto.
+* **Gestión de evidencias multimedia:** se debe verificar que los videos de gran tamaño puedan organizarse y adicionarse adecuadamente dentro del repositorio, sin afectar la disponibilidad de las evidencias del proyecto.
 * **Otros impedimentos:** no se cuenta con información adicional confirmada sobre dificultades presentadas durante esta fecha.
 
 ## 4. Acuerdos y compromisos
@@ -208,7 +208,7 @@ Se mantiene como aspecto por revisar el manejo de algunos videos de gran tamaño
 
 ## 5. Conclusión
 
-Durante esta jornada se plantea realizar el seguimiento de los entregables del Sprint y revisar los avances del proyecto CLENA en sus diferentes componentes. De acuerdo con el Sprint Review del 29 de septiembre, el equipo reportó resultados en el análisis del problema, la propuesta tecnológica, el prototipo interactivo, la gestión del repositorio y la organización de las evidencias. Se mantiene como aspecto de atención la gestión de los archivos multimedia de gran tamaño. Los detalles específicos de esta Daily Scrum deben verificarse con los integrantes antes de presentarla como acta de una reunión efectivamente realizada.
+Durante esta jornada se plantea realizar el seguimiento de los entregables del Sprint y revisar los avances del proyecto en sus diferentes componentes. De acuerdo con el Sprint Review del 29 de septiembre, el equipo reportó resultados en el análisis del problema, la propuesta tecnológica, el prototipo interactivo, la gestión del repositorio y la organización de las evidencias. Se mantiene como aspecto de atención la gestión de los archivos multimedia de gran tamaño.
 
 **Elaborado por:** Valery Romero Mendoza
 **Cargo:** Scrum Master — Laboratorio CLENA
