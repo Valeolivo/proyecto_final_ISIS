@@ -37,13 +37,20 @@ Matías Vásquez Terán (Responsable de evidencias):
 ¿Qué voy a hacer hoy?: Proponer una estructura uniforme para describir las evidencias y revisar alternativas para facilitar la gestión de archivos multimedia de gran tamaño.
 ¿Tengo algún impedimento?: Se mantiene como posible dificultad la gestión de los videos pesados.
 
-4. Impedimentos identificados
+3. Impedimentos identificados
+   
 Organización de evidencias: Optimizar el tiempo destinado a redactar y clasificar descripciones multimedia.
+
 Control de versiones: Mejorar la claridad de los mensajes de commit y el uso de ramas para organizar nuevas funcionalidades.
+
 Gestión de archivos: Pendiente de confirmar la solución definitiva para el manejo de videos pesados de la visita de campo.
 
-5. Acuerdos y compromisos
+4. Acuerdos y compromisos
+   
 Elaborar y utilizar plantillas para estandarizar las descripciones de las evidencias multimedia.
+
 Mantener la actualización periódica del tablero Kanban en GitHub Projects.
+
 Mejorar la claridad y organización de los mensajes de los commits en el repositorio.
+
 Utilizar ramas de Git para organizar el desarrollo y revisión de nuevas funcionalidades.
