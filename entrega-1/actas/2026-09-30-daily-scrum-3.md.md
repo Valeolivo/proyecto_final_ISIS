@@ -33,5 +33,7 @@ Gestión de archivos: Manejo y alternativas para los videos pesados del trabajo 
 4. Acuerdos y compromisos
    
 Elaborar y utilizar plantillas para estandarizar las descripciones de evidencias multimedia.
+
 Mantener la actualización periódica del tablero Kanban.
+
 Mejorar la calidad de los mensajes de commit y emplear ramas en Git para nuevos desarrollos.
