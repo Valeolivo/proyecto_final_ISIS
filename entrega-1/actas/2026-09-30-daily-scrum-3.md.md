@@ -23,11 +23,15 @@ Luciana Díaz Mariano: Revisó los avances del prototipo en Figma bajo los crite
 Matías Vásquez Terán: Evaluó la optimización de tiempos para clasificar descripciones multimedia conforme a la retroalimentación. Plan para hoy: Proponer una estructura uniforme para describir evidencias y revisar alternativas para archivos pesados. Impedimento: Posible dificultad con el peso de los videos.
 
 3. Impedimentos identificados
+   
 Organización de evidencias: Optimizar tiempos de redacción multimedia.
+
 Control de versiones: Mejorar la claridad de los mensajes de commit y el uso adecuado de ramas (branches).
+
 Gestión de archivos: Manejo y alternativas para los videos pesados del trabajo de campo.
 
-5. Acuerdos y compromisos
+4. Acuerdos y compromisos
+   
 Elaborar y utilizar plantillas para estandarizar las descripciones de evidencias multimedia.
 Mantener la actualización periódica del tablero Kanban.
 Mejorar la calidad de los mensajes de commit y emplear ramas en Git para nuevos desarrollos.
