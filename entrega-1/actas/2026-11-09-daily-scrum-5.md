@@ -15,7 +15,9 @@ Dar seguimiento a las actividades posteriores a la revisión del Sprint, evaluar
    
 Valeria Olivo (Product Owner y Documentación):
 ¿Qué hice desde el último Daily?: Revisé los resultados presentados durante el Sprint Review y las observaciones relacionadas con el análisis del problema, las necesidades de los adultos mayores y la propuesta tecnológica, teniendo en cuenta las mejoras de la retrospectiva.
+
 ¿Qué voy a hacer hoy?: Verificar que la documentación mantenga coherencia entre el problema identificado, las necesidades de los usuarios y las funcionalidades propuestas, asegurando que los contenidos de la app sean claros para los adultos mayores.
+
 ¿Tengo algún impedimento?: Ninguno reportado.
 
 Valery Romero Mendoza (Scrum Master):
