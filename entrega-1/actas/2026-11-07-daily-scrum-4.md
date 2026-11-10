@@ -37,12 +37,16 @@ Matías Vásquez Terán (Responsable de evidencias):
 ¿Qué voy a hacer hoy?: Clasificar y subir las imágenes y videos a sus respectivas carpetas en el repositorio, agregando las descripciones correspondientes.
 ¿Tengo algún impedimento?: Algunos archivos de video son muy pesados para la carga.
 
-4. Impedimentos identificados
+3. Impedimentos identificados
+   
 Evidencias multimedia: Revisar alternativas para el almacenamiento y la gestión de videos de gran tamaño dentro del repositorio.
 
-5. Acuerdos y compromisos
+4. Acuerdos y compromisos
+   
 Actualizar de forma continua el estado de las tareas en el tablero Kanban de GitHub Projects.
+
 Mantener la disciplina en el registro y documentación de las actividades del laboratorio.
+
 Reportar cualquier inconveniente técnico o de almacenamiento de manera oportuna.
 
 
