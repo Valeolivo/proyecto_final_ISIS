@@ -8,6 +8,7 @@ Asistentes: Valeria Olivo, Valery Romero Mendoza, Luciana Díaz Mariano y Matía
 Realizar seguimiento al estado de las actividades del proyecto, revisar el avance individual de los roles, evaluar los pendientes y comunicar los impedimentos técnicos o de gestión actuales.
 
 2. Seguimiento de los integrantes
+   
 Valeria Olivo (Product Owner y Documentación):
 ¿Qué hice desde el último Daily?: Identifiqué las necesidades de los usuarios a partir de las observaciones en la Sala de Internet, analicé los tres problemas detectados y participé en la selección de la problemática sobre la falta de colaboración para el uso básico de herramientas digitales.
 ¿Qué voy a hacer hoy?: Definir prioridades, establecer las necesidades clave que atenderá la app y colaborar con el Development Team en las características principales de la solución.
