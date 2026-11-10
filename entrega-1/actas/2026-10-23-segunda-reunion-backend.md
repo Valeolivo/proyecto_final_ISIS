@@ -1,6 +1,9 @@
 Proyecto: Aplicación Web Educativa para Adultos Mayores (CLENA)
+
 Fecha de la sesión: 23 de octubre de 2026
+
 Plataforma: Microsoft Teams (Grabación de Backend - Segunda Sesión)
+
 Asistentes: Integrantes del proyecto y equipo de desarrollo de backend aliado.
 
 1. Objetivo de la reunión
