@@ -38,19 +38,21 @@ Probamos como usuarios la versión desplegada el 2026-11-09 y registramos los ha
 
 ## 4. Estado de avance de las historias «Debe tener»
 
-Estado tomado del tablero de Backend el AAAA-MM-DD.
+Estado tomado del tablero de GitHub Projects del equipo de Backend el 2026-11-10.
 
-| Historia | Descripción | Estado |
-|---|---|---|
-| US-P1-01 | Consultar catálogo de guías | To Do |
-| US-P1-02 | Realizar lecciones de práctica | To Do |
-| US-P1-03 | Consultar mi progreso | To Do |
-| US-P1-04 | Solicitar ayuda al staff | To Do |
-| US-P1-05 | Eliminar mi cuenta y datos personales | To Do |
-| US-P1-06 | Gestionar guías y lecciones | To Do |
-| US-P1-07 | Gestionar solicitudes de ayuda | To Do |
-| US-P1-08 | Consultar estadísticas | To Do |
-| US-P1-09 | Gestionar categorías | To Do |
-| US-P1-10 | Crear usuarios | To Do |
-| US-P1-11 | Registrarme e iniciar sesión | To Do |
-| US-P1-13 | Ajustar accesibilidad | To Do |
+| Historia | Descripción | Issue | Estado |
+|---|---|---|---|
+| US-P1-01 | Consultar catálogo de guías | [#20](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/20) | Done |
+| US-P1-02 | Realizar lecciones de práctica | [#21](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/21) | In Progress |
+| US-P1-03 | Consultar mi progreso | [#22](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/22) | In Progress |
+| US-P1-04 | Solicitar ayuda al staff | [#23](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/23) | Done |
+| US-P1-05 | Eliminar mi cuenta y datos personales | [#26](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/26) | In Progress |
+| US-P1-06 | Gestionar guías y lecciones | [#28](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/28) | Done |
+| US-P1-07 | Gestionar solicitudes de ayuda | [#29](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/29) | Done |
+| US-P1-08 | Consultar estadísticas | [#24](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/24) | In Progress |
+| US-P1-09 | Gestionar categorías | [#25](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/25) | In Progress |
+| US-P1-10 | Crear usuarios | [#27](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/27) | In Progress |
+| US-P1-11 | Registrarme e iniciar sesión | [#30](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/30) | Done |
+| US-P1-13 | Ajustar accesibilidad | [#32](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/32) | In Review |
+
+**Resumen:** 5 en Done, 1 en In Review y 6 en In Progress, de 12 historias «Debe tener». La US-P1-12 (acceso por QR, «Debería tener») está en In Progress.
