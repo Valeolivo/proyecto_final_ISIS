@@ -29,8 +29,10 @@ Enlace: https://uninorte-my.sharepoint.com/:v:/g/personal/dcruzado_uninorte_edu_
 2026-11-07 — Daily Scrum 4 / Seguimiento de actividades - (SEGUIMIENTO DE ALIANZA)
 Enlace: https: https://uninorte-my.sharepoint.com/:v:/g/personal/romerovs_uninorte_edu_co/IQDQcGp0enzuT6n1ZDssq4B3AZQ0pCZg9SzsiScYKLp-JbE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MQkEAp
 
-2026-11-09 — Daily Scrum 5 / Seguimiento y retrospectiva de mejoras - (SEGUIMIENTO DE ALIANZA)
+2026-11-10 — Tercera reunión con equipo de backend / Seguimiento de actividades - (ALIANZA - PRESENCIAL)
+Enlace: https://1drv.ms/f/c/3c37f21d2002ab70/IgCfukmQ7kPhQZvkKz8Dp2XWAXMMmGi_u7-kFRV86Aj3HO0?e=UcSVKv
 
+2026-11-09 — Daily Scrum 5 / Seguimiento y retrospectiva de mejoras - (SEGUIMIENTO DE ALIANZA)
 Enlace: https://uninorte-my.sharepoint.com/:v:/g/personal/romerovs_uninorte_edu_co/IQCQ2bU1KbUkS6n8mwOHHbdlAUM-TRzmkikVypDLd6UDSk0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XWRCT0
 
 2026-11-09 — Daily Scrum 5 / Seguimiento y retrospectiva de mejoras
