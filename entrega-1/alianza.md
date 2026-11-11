@@ -26,15 +26,15 @@ La prioridad de las historias se acordó con el Product Owner de Backend. Quedar
 
 ## 3. Prueba del incremento: Issues de feedback
 
-Probamos como usuarios la versión desplegada el AAAA-MM-DD y registramos los hallazgos como Issues con la etiqueta `feedback-cliente`.
+Probamos como usuarios la versión desplegada el 2026-11-09 y registramos los hallazgos como Issues con la etiqueta `feedback-cliente`.
 
 | Issue | Historia revisada | Qué esperábamos | Qué pasó | Autor |
 |---|---|---|---|---|
-| [#N](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/N) | US-P1-01 | … | … | Nombre |
-| [#N](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/N) | US-P1-… | … | … | Nombre |
-| [#N](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/N) | US-P1-… | … | … | Nombre |
-| [#N](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/N) | US-P1-… | … | … | Nombre |
-| [#N](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/N) | US-P1-… | … | … | Nombre |
+| [#34](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/34) | US-P1-01 | Dado que escribo «naveg» en el buscador, cuando presiono Buscar, entonces aparece «Navegación segura en internet» entre los resultados. Dado que abro una guía, cuando presiono «Descargar PDF», entonces obtengo un PDF con el título, la categoría y el contenido. |  La búsqueda encuentra la guía escribiendo solo una parte del título y el PDF se descarga con el contenido de la guía. El criterio se cumple. | Valeria Olivo Cantillo |
+| [#35](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/35) | US-P1-04 | Al enviar el formulario con nombre, asunto y descripción, ver un mensaje de que la solicitud fue recibida. | Aparece la confirmación y la solicitud queda registrada como pendiente. Sugerimos que el mensaje indique qué pasa después. | Valeria Olivo |
+| [#37](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/37) | US-P1-09 | Que las categorías nuevas aparezcan en los filtros públicos, que haya aviso si el nombre ya existe y que no se pueda eliminar una categoría con guías asociadas sin reasignarlas. | Las categorías se guardan y aparecen en los filtros; los avisos de duplicado y de restricción al eliminar funcionan. Sugerimos agrandar los textos de las alertas. | Luciana Díaz  |
+|  [#38](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/38) | US-P1-10 | Que un usuario creado con rol Staff entre a su panel, que haya aviso de error si el correo ya está registrado y que solo se puedan elegir los roles Staff o Público. | El usuario Staff accede al panel correcto, el correo duplicado se bloquea y el menú de roles solo muestra Staff y Público. Sugerimos un botón para mostrar u ocultar la contraseña. | Luciana Díaz  |
+| [#40](https://github.com/MarcusRambal/Autoaprendizaje-digital---Clena/issues/40) | US-P1-11 | Poder crear una cuenta aceptando el aviso de privacidad, iniciar sesión y ver el menú según el rol, recibir un mensaje claro con contraseña equivocada y volver al inicio al cerrar sesión. | El registro, el inicio de sesión por rol, el manejo de contraseña errónea y el cierre de sesión funcionan y cumplen los criterios. Sugerimos validar el formato del correo mientras se escribe. | Matías Vásquez  |
 
 ## 4. Estado de avance de las historias «Debe tener»
 
